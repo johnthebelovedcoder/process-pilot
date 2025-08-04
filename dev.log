@@ -1,0 +1,1553 @@
+
+> dashboard-boilerplate@1.0.0 dev
+> next dev
+
+ ⚠ Warning: Found multiple lockfiles. Selecting /Users/eliogolusola/yarn.lock.
+   Consider removing the lockfiles at:
+   * /Users/eliogolusola/work/timi/dashboard-boilerplate/package-lock.json
+
+   ▲ Next.js 15.4.5
+   - Local:        http://localhost:3000
+   - Network:      http://172.20.10.3:3000
+
+ ✓ Starting...
+ ✓ Ready in 1836ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 3.7s (695 modules)
+ GET /dashboard 200 in 4052ms
+ ✓ Compiled in 123ms (272 modules)
+ ⨯ ./src/app/dashboard/documentation/page.tsx
+Error:   [31mx[0m Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2301:1]
+ [2m2298[0m |     </div>
+ [2m2299[0m |   )
+ [2m2300[0m | }
+ [2m2301[0m | }
+      : [35;1m^[0m
+      `----
+  [31mx[0m Unexpected eof
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2301:3]
+ [2m2299[0m |   )
+ [2m2300[0m | }
+ [2m2301[0m | }
+      `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/dashboard/documentation/page.tsx
+ ⨯ ./src/app/dashboard/documentation/page.tsx
+Error:   [31mx[0m Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2301:1]
+ [2m2298[0m |     </div>
+ [2m2299[0m |   )
+ [2m2300[0m | }
+ [2m2301[0m | }
+      : [35;1m^[0m
+      `----
+  [31mx[0m Unexpected eof
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2301:3]
+ [2m2299[0m |   )
+ [2m2300[0m | }
+ [2m2301[0m | }
+      `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/dashboard/documentation/page.tsx
+ ○ Compiling /_not-found ...
+ ⨯ ./src/app/dashboard/documentation/page.tsx
+Error:   [31mx[0m Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2301:1]
+ [2m2298[0m |     </div>
+ [2m2299[0m |   )
+ [2m2300[0m | }
+ [2m2301[0m | }
+      : [35;1m^[0m
+      `----
+  [31mx[0m Unexpected eof
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2301:3]
+ [2m2299[0m |   )
+ [2m2300[0m | }
+ [2m2301[0m | }
+      `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/dashboard/documentation/page.tsx
+ GET /dashboard/documentation 500 in 1859ms
+ GET /dashboard 500 in 25ms
+ ⨯ ./src/app/dashboard/documentation/page.tsx
+Error:   [31mx[0m Unexpected eof
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2300:3]
+ [2m2298[0m |     </div>
+ [2m2299[0m |   )
+ [2m2300[0m | }
+      `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/dashboard/documentation/page.tsx
+ GET /_next/static/webpack/d9c3e637ccde8c64.webpack.hot-update.json 500 in 234ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /dashboard 500 in 14ms
+ GET /dashboard/documentation 500 in 13ms
+ ⨯ ./src/app/dashboard/documentation/page.tsx
+Error:   [31mx[0m Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2301:1]
+ [2m2298[0m |     </div>
+ [2m2299[0m |   )
+ [2m2300[0m | }
+ [2m2301[0m | }
+      : [35;1m^[0m
+      `----
+  [31mx[0m Unexpected eof
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2301:3]
+ [2m2299[0m |   )
+ [2m2300[0m | }
+ [2m2301[0m | }
+      `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/dashboard/documentation/page.tsx
+ GET /_next/static/webpack/d9c3e637ccde8c64.webpack.hot-update.json 500 in 360ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /dashboard 500 in 16ms
+ GET /dashboard/documentation 500 in 18ms
+ ⨯ ./src/app/dashboard/documentation/page.tsx
+Error:   [31mx[0m Unexpected eof
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2300:3]
+ [2m2298[0m |     </div>
+ [2m2299[0m |   )
+ [2m2300[0m | }
+      `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/dashboard/documentation/page.tsx
+ GET /_next/static/webpack/d9c3e637ccde8c64.webpack.hot-update.json 500 in 309ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ ./src/app/dashboard/documentation/page.tsx
+Error:   [31mx[0m Unexpected eof
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2300:3]
+ [2m2298[0m |     </div>
+ [2m2299[0m |   )
+ [2m2300[0m | }
+      `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/dashboard/documentation/page.tsx
+ GET /dashboard 500 in 185ms
+ ✓ Compiled /dashboard in 368ms (1005 modules)
+ GET /_next/static/webpack/d9c3e637ccde8c64.webpack.hot-update.json 404 in 535ms
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /dashboard 200 in 172ms
+ GET /dashboard 200 in 154ms
+ ⨯ ./src/app/dashboard/documentation/page.tsx
+Error:   [31mx[0m Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2301:1]
+ [2m2298[0m |     </div>
+ [2m2299[0m |   )
+ [2m2300[0m | }
+ [2m2301[0m | }
+      : [35;1m^[0m
+      `----
+  [31mx[0m Unexpected eof
+      ,-[[36;1;4m/Users/eliogolusola/work/timi/dashboard-boilerplate/src/app/dashboard/documentation/page.tsx[0m:2301:3]
+ [2m2299[0m |   )
+ [2m2300[0m | }
+ [2m2301[0m | }
+      `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/dashboard/documentation/page.tsx
+ GET /dashboard/documentation 500 in 154ms
+ ○ Compiling /dashboard/documentation ...
+ ✓ Compiled /dashboard/documentation in 756ms (1034 modules)
+ GET /dashboard 200 in 107ms
+ GET /dashboard 200 in 235ms
+ GET /dashboard/documentation 200 in 47ms
+ GET /dashboard/documentation 200 in 64ms
+ ○ Compiling /dashboard/settings ...
+ ✓ Compiled /dashboard/settings in 634ms (1052 modules)
+ GET /dashboard/settings 200 in 711ms
+ ✓ Compiled /dashboard/integrations in 471ms (1101 modules)
+ GET /dashboard/integrations 200 in 532ms
+ GET /dashboard/documentation 200 in 72ms
+ ✓ Compiled /dashboard/discovery in 388ms (1124 modules)
+ GET /dashboard/discovery 200 in 461ms
+ ✓ Compiled in 844ms (1158 modules)
+ GET /dashboard/discovery 200 in 63ms
+ ✓ Compiled in 556ms (1160 modules)
+ GET /dashboard/discovery 200 in 52ms
+ GET /dashboard/documentation 200 in 66ms
+ ○ Compiling /dashboard/analytics ...
+ ✓ Compiled /dashboard/analytics in 551ms (1159 modules)
+ GET /dashboard/analytics 200 in 642ms
+ ✓ Compiled /dashboard/teams in 470ms (1156 modules)
+ GET /dashboard/teams 200 in 539ms
+ GET /dashboard/integrations 200 in 29ms
+ ✓ Compiled in 227ms (501 modules)
+ GET /dashboard/integrations 200 in 20ms
+ GET /dashboard/integrations 200 in 134ms
+ ✓ Compiled in 452ms (1170 modules)
+ GET /dashboard/integrations 200 in 38ms
+ GET /dashboard/settings 200 in 31ms
+ ✓ Compiled in 653ms (1168 modules)
+ GET /dashboard/settings 200 in 34ms
+ ✓ Compiled /dashboard in 137ms (680 modules)
+ GET /dashboard 200 in 232ms
+ ✓ Compiled in 517ms (1160 modules)
+ GET /dashboard 200 in 64ms
+ ✓ Compiled in 183ms (497 modules)
+ ✓ Compiled in 149ms (497 modules)
+ GET /dashboard 200 in 152ms
+ GET /dashboard 200 in 45ms
+ ✓ Compiled /dashboard/documentation in 323ms (677 modules)
+ GET /dashboard/documentation 200 in 370ms
+ ✓ Compiled in 443ms (1172 modules)
+ GET /dashboard/documentation 200 in 38ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ ReferenceError: Calendar is not defined
+    at DocumentationPage (src/app/dashboard/documentation/page.tsx:195:119)
+  193 |     { id: '3', name: 'User Manual', description: 'Product or system user manual', category: 'guide', icon: BookOpen },
+  194 |     { id: '4', name: 'Meeting Minutes', description: 'Standard meeting minutes template', category: 'meeting', icon: FileText },
+> 195 |     { id: '5', name: 'Project Plan', description: 'Project planning and tracking document', category: 'project', icon: Calendar }
+      |                                                                                                                       ^
+  196 |   ])
+  197 |
+  198 |   // UI State {
+  digest: '2232524884'
+}
+ GET /dashboard/documentation 500 in 129ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled in 455ms (1174 modules)
+ ⨯ ReferenceError: ChevronLeft is not defined
+    at DocumentationPage (src/app/dashboard/documentation/page.tsx:284:34)
+  282 |               className="p-1 hover:bg-accent rounded"
+  283 |             >
+> 284 |               {sidebarExpanded ? <ChevronLeft size={20} /> : <ChevronRight size={20} />}
+      |                                  ^
+  285 |             </button>
+  286 |           </div>
+  287 |         </div> {
+  digest: '1844240405'
+}
+ ⨯ ReferenceError: ChevronLeft is not defined
+    at DocumentationPage (src/app/dashboard/documentation/page.tsx:284:34)
+  282 |               className="p-1 hover:bg-accent rounded"
+  283 |             >
+> 284 |               {sidebarExpanded ? <ChevronLeft size={20} /> : <ChevronRight size={20} />}
+      |                                  ^
+  285 |             </button>
+  286 |           </div>
+  287 |         </div> {
+  digest: '1844240405'
+}
+ GET /dashboard/documentation 500 in 251ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled in 740ms (1158 modules)
+ GET /dashboard/analytics 200 in 549ms
+ GET /dashboard/analytics 200 in 53ms
+ GET /dashboard/documentation 200 in 46ms
+ GET /dashboard/analytics 200 in 90ms
+ GET /dashboard/documentation 200 in 18ms
+ ✓ Compiled in 710ms (1158 modules)
+ GET /dashboard/documentation 200 in 55ms
+ ✓ Compiled in 376ms (1158 modules)
+ GET /dashboard/documentation 200 in 57ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app-paths-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app-paths-manifest.json',
+  page: '/dashboard/analytics'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages-manifest.json'
+}
+ GET /dashboard/analytics 500 in 324ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app-paths-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app-paths-manifest.json',
+  page: '/dashboard/analytics'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages-manifest.json'
+}
+ GET /dashboard/analytics 500 in 248ms
+ ✓ Compiled /_not-found in 496ms (1149 modules)
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'
+}
+ GET /_next/static/chunks/fallback/main.js 500 in 1158ms
+ GET /_next/static/chunks/fallback/webpack.js 500 in 1157ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 1157ms
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 1156ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 1156ms
+ ✓ Compiled in 164ms (501 modules)
+ ✓ Compiled in 131ms (501 modules)
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/dashboard/analytics/page.js:2:18335)
+    at Object.<anonymous> (.next/server/app/dashboard/analytics/page.js:2:18393) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/dashboard/analytics'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/pages/_document.js:1:325)
+    at Object.<anonymous> (.next/server/pages/_document.js:1:371) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET /dashboard/analytics 500 in 108ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/routes-manifest.json'
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 699ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 699ms
+ GET /_next/static/chunks/fallback/main.js 500 in 698ms
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 697ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 695ms
+ ✓ Compiled in 369ms (497 modules)
+ ✓ Compiled in 236ms (497 modules)
+ ✓ Compiled in 255ms (497 modules)
+ ✓ Compiled in 243ms (497 modules)
+ ✓ Compiled in 270ms (497 modules)
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/dashboard/analytics/page.js:2:18335)
+    at Object.<anonymous> (.next/server/app/dashboard/analytics/page.js:2:18393) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/dashboard/analytics'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/pages/_document.js:1:325)
+    at Object.<anonymous> (.next/server/pages/_document.js:1:371) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ HEAD /dashboard/analytics 500 in 91ms
+ GET /dashboard/documentation 404 in 424ms
+ ✓ Compiled /_not-found in 432ms (1149 modules)
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /dashboard/analytics 500 in 294ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 96ms
+ GET /_next/static/chunks/fallback/main.js 500 in 95ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 95ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 35ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 34ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 90ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 76ms
+ GET /_next/static/chunks/fallback/main.js 500 in 76ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 75ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 46ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 46ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/page.js',
+  page: '/dashboard'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard 500 in 69ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 64ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 62ms
+ GET /_next/static/chunks/fallback/main.js 500 in 63ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 36ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 36ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/page.js',
+  page: '/dashboard'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard 500 in 125ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 74ms
+ GET /_next/static/chunks/fallback/main.js 500 in 72ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 73ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 36ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 36ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/page.js',
+  page: '/dashboard'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard 500 in 70ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 77ms
+ GET /_next/static/chunks/fallback/main.js 500 in 76ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 75ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 81ms
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 82ms
+ ✓ Compiled in 352ms (497 modules)
+ ✓ Compiled in 155ms (497 modules)
+ ✓ Compiled in 163ms (497 modules)
+ ✓ Compiled in 172ms (497 modules)
+ ✓ Compiled in 154ms (497 modules)
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 97ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/discovery/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/discovery/page.js',
+  page: '/dashboard/discovery'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/discovery 500 in 46ms
+ ✓ Compiled /_not-found in 342ms (1149 modules)
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 430ms
+ GET /_next/static/chunks/fallback/main.js 500 in 427ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 426ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 392ms
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 393ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/discovery/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/discovery/page.js',
+  page: '/dashboard/discovery'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/discovery 500 in 101ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 86ms
+ GET /_next/static/chunks/fallback/main.js 500 in 85ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 85ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 35ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 35ms
+ GET /dashboard 404 in 228ms
+ GET /dashboard 404 in 243ms
+ GET /dashboard 404 in 218ms
+ GET /dashboard 404 in 221ms
+ GET /dashboard 404 in 217ms
+ GET /dashboard 404 in 212ms
+ GET /dashboard 404 in 216ms
+ GET /dashboard 404 in 214ms
+ GET /dashboard/documentation 404 in 215ms
+ ✓ Compiled /dashboard/settings in 404ms (678 modules)
+ ⨯ [Error [InvariantError]: Invariant: Expected clientReferenceManifest to be defined. This is a bug in Next.js.]
+ ⨯ [Error [InvariantError]: Invariant: Expected clientReferenceManifest to be defined. This is a bug in Next.js.] {
+  page: '/dashboard/settings'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/settings 500 in 1108ms
+ ⨯ [Error [InvariantError]: Invariant: Expected clientReferenceManifest to be defined. This is a bug in Next.js.]
+ ⨯ [Error [InvariantError]: Invariant: Expected clientReferenceManifest to be defined. This is a bug in Next.js.] {
+  page: '/dashboard/settings'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/settings 500 in 494ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/integrations/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/integrations/page.js',
+  page: '/dashboard/integrations'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/integrations 500 in 253ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 259ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/discovery/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/discovery/page.js',
+  page: '/dashboard/discovery'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/discovery 500 in 57ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 275ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 265ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/analytics/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/analytics/page.js',
+  page: '/dashboard/analytics'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/analytics 500 in 321ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 273ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 243ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 258ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 258ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 272ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/analytics/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/analytics/page.js',
+  page: '/dashboard/analytics'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/analytics 500 in 251ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/analytics/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/analytics/page.js',
+  page: '/dashboard/analytics'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/analytics 500 in 275ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 274ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 266ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/analytics/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/analytics/page.js',
+  page: '/dashboard/analytics'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/analytics 500 in 273ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 159ms
+ GET /_next/static/chunks/fallback/main.js 500 in 156ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 156ms
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 156ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 155ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/documentation/page.js',
+  page: '/dashboard/documentation'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/documentation 500 in 285ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 63ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 63ms
+ GET /_next/static/chunks/fallback/main.js 500 in 64ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 33ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 33ms
+[Error: ENOENT: no such file or directory, stat '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/11.pack.gz'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/11.pack.gz'
+}
+ ⨯ unhandledRejection: [Error: ENOENT: no such file or directory, stat '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/11.pack.gz'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/11.pack.gz'
+}
+ ⨯ unhandledRejection:  [Error: ENOENT: no such file or directory, stat '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/11.pack.gz'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/11.pack.gz'
+}
+[Error: ENOENT: no such file or directory, stat '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/12.pack.gz'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/12.pack.gz'
+}
+ ⨯ unhandledRejection: [Error: ENOENT: no such file or directory, stat '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/12.pack.gz'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/12.pack.gz'
+}
+ ⨯ unhandledRejection:  [Error: ENOENT: no such file or directory, stat '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/12.pack.gz'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/12.pack.gz'
+}
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, stat '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/cache/webpack/server-development/0.pack.gz'
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/analytics/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/analytics/page.js',
+  page: '/dashboard/analytics'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/pages/_document.js'
+}
+ GET /dashboard/analytics 500 in 315ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 75ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 75ms
+ GET /_next/static/chunks/fallback/main.js 500 in 75ms
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js'
+}
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 36ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 37ms
+ ✓ Compiled in 342ms (497 modules)
+ ✓ Compiled in 235ms (497 modules)
+ ✓ Compiled in 227ms (497 modules)
+ ✓ Compiled in 199ms (497 modules)
+ ✓ Compiled in 195ms (497 modules)
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/settings/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/dashboard/analytics/page.js:2:18335)
+    at Object.<anonymous> (.next/server/app/dashboard/analytics/page.js:2:18393) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/dashboard/analytics'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/dashboard/settings/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/pages/_document.js:1:325)
+    at Object.<anonymous> (.next/server/pages/_document.js:1:371) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET /dashboard/analytics 500 in 107ms
+ ✓ Compiled /_not-found in 402ms (1163 modules)
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/_not-found/page.js:2:7800)
+    at Object.<anonymous> (.next/server/app/_not-found/page.js:2:7846) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/_not-found/page.js:2:7800)
+    at Object.<anonymous> (.next/server/app/_not-found/page.js:2:7846) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/_not-found/page.js:2:7800)
+    at Object.<anonymous> (.next/server/app/_not-found/page.js:2:7846) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/_not-found/page.js:2:7800)
+    at Object.<anonymous> (.next/server/app/_not-found/page.js:2:7846) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/_not-found/page.js:2:7800)
+    at Object.<anonymous> (.next/server/app/_not-found/page.js:2:7846) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 495ms
+ GET /_next/static/chunks/fallback/main.js 500 in 493ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 492ms
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 449ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 449ms
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/dashboard/documentation/page.js:2:7763)
+    at Object.<anonymous> (.next/server/app/dashboard/documentation/page.js:2:7817) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/dashboard/documentation'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/pages/_document.js:1:325)
+    at Object.<anonymous> (.next/server/pages/_document.js:1:371) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET /dashboard/documentation 500 in 81ms
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/_not-found/page.js:2:7800)
+    at Object.<anonymous> (.next/server/app/_not-found/page.js:2:7846) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/_not-found/page.js:2:7800)
+    at Object.<anonymous> (.next/server/app/_not-found/page.js:2:7846) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/_not-found/page.js:2:7800)
+    at Object.<anonymous> (.next/server/app/_not-found/page.js:2:7846) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 66ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 66ms
+ GET /_next/static/chunks/fallback/main.js 500 in 66ms
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/_not-found/page.js:2:7800)
+    at Object.<anonymous> (.next/server/app/_not-found/page.js:2:7846) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './608.js'
+Require stack:
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/webpack-runtime.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/.next/server/app/_not-found/page.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/require.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/load-components.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/utils.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/options.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/swc/index.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/router-server.js
+- /Users/eliogolusola/work/timi/dashboard-boilerplate/node_modules/next/dist/server/lib/start-server.js
+    at <unknown> (.next/server/app/_not-found/page.js:2:7800)
+    at Object.<anonymous> (.next/server/app/_not-found/page.js:2:7846) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 38ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 37ms
+ ✓ Compiled in 375ms (497 modules)
+ ✓ Compiled in 222ms (497 modules)
+ ✓ Compiled in 287ms (497 modules)
+ ✓ Compiled in 221ms (497 modules)
+ ✓ Compiled in 250ms (497 modules)
+ ✓ Compiled in 146ms (497 modules)
+ ✓ Compiled in 160ms (497 modules)
+ ✓ Compiled in 127ms (497 modules)
+ ✓ Compiled in 130ms (497 modules)
+ ✓ Compiled in 275ms (497 modules)
+ ✓ Compiled in 237ms (497 modules)
+ ✓ Compiled in 144ms (497 modules)
+ ✓ Compiled in 176ms (497 modules)
+[?25h
